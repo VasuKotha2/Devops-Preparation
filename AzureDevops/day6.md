@@ -43,7 +43,7 @@ Configuring Self Hosted Agent in Azure Devops
 
 * Azure pipelines are represented in YAML format. YAML is used as a data representation format.
 * YAML is a name value pair collection.
-    * <name>: <value>
+    *  `<name>: <value>`
 * Value holds data and types of data are
     * Simple/Scalar
         * text: course: AzureDevOps or course: "AzureDevOps" or course: 'AzureDevOps'
