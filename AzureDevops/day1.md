@@ -5,7 +5,7 @@
 * Azure DevOps is an end-to-end software development platform that offers an assortment of capabilities intended to organize and accelerate development efforts across the entire application lifecycle.
 
     * Refer here for more info
-![AzureDevops](./Devops-Preparation/images/AzureDevops1.png)
+![AzureDevops](../Devops-Preparation/images/AzureDevops1.png)
 
 
 
