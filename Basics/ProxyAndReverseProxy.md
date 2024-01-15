@@ -31,3 +31,5 @@ Here are the few good reasons.
 2. Second, a reverse proxy is used for load balancing. A popular website handling millions of users everyday is unlikely to be able to handle the traffic with a single server. A reverse proxy can balance a large number of incoming requests by distributing the traffic to a large pool of web servers, and effectively preventing any single one of them becoming overloaded
 3. Third, a reverse proxy caches static content. A piece of content could be cached on the reverse proxy for a perid of time. If the same piece of content is requested again from the reverse proxy, the locally cached version could be returned quickly. 
 4. A reverse proxy can handle SSL encryption. SSL handshake is computationally expensive. A reverse proxy can free up the origin servers from those expensive operations. Instead of handling SSL for all clients, a website only need to handle SSL handshake from a small number of reverse proxies.
+
+https://youtu.be/3N0tGKwvBdA?si=uL7XLiS5ste8gLCf
