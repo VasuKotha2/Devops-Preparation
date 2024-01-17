@@ -1,3 +1,11 @@
+* HTTP Status codes starting with 
+    1xx - Information responses
+    2xx - Successful responses
+    3xx - Redirection responses
+    4xx - Client error responses
+    5xx - Server error responses
+
+
 1xx: Information
 ----------------
 * 100 Continue:
