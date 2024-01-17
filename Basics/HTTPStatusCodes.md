@@ -97,4 +97,40 @@ The precondition given in the request evaluated to false by the server
 * 413 Request Too Large:
 ------------------------
 The server will not accept the request, because the request entity is too large
+* 414 Request-URI Too Long:
+---------------------------
+The server will not accept the request, because the URI is too long. Occurs when you convert a POST request to a GET request with a long query information 
+* 415 Unsupported Media Type:
+-----------------------------
+The server will not accept the request, because the media type is not supported 
+* 416 Range Not Satisfiable:
+----------------------------
+The client has asked for a portion of the file, but the server cannot supply that portion
+* 417 Expectation Failed:
+-------------------------
+The server cannot meet the requirements of the Expect request-header field
+5xx: Server Error:
+------------------
+* 500 Internal Server Error:
+----------------------------
+A generic error message, given when no more specific message is suitable
+* 501 Not Implemented:
+----------------------
+The server either does not recognize the request method, or it lacks the ability to fulfill the request
+* 502 Bad Gateway:
+------------------
+The server was acting as a gateway or proxy and received an invalid response from the upstream server
+* 503 Service Unavailable:
+--------------------------
+The server is currently unavailable (overloaded or down)
+* 504 Gateway Timeout:
+----------------------
+The server was acting as a gateway or proxy and did not receive a timely response from the upstream server
+* 505 HTTP Version Not Supported:
+---------------------------------
+The server does not support the HTTP protocol version used in the request
+* 511 Network Authentication Required:
+--------------------------------------
+The client needs to authenticate to gain network access
+
 
