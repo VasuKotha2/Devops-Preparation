@@ -25,7 +25,10 @@ network or with an internet identity provider—to get temporary access to your 
 ## Identity information for assurance
   * If you use AWS CloudTrail, you receive log records that include information about those who made requests for resources in your account. That information is based on IAM identities.
 ## PCI DSS Compliance
-* Integrated with many AWS services
-* Eventually Consistent
+  * IAM supports the processing, storage, and transmission of credit card data by a merchant or service provider, and has been validated as being compliant with Payment Card Industry (PCI) Data Security Standard (DSS).
+## Integrated with many AWS services
+  * IAM can be integrated with almost all the AWS services.
+##  Eventually Consistent
+  * Like many other services in AWS IAM is eventually consistent.
 ## Free to use
   * AWS IAM and AWS Security Token Service (AWS STS) are free to use. You will be charged only when you access other AWS services using your IAM users or AWS STS temporary security credentials.

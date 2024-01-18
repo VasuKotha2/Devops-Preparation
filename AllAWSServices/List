@@ -1,0 +1,199 @@
+Below is the list of AWS services based on Product Categories
+
+## Analytics:
+--------------
+1. Amazon Red Shift
+2. Amazon Open Search Service
+3. Amazon Quick Sight
+4. AWS Data Pipeline
+5. AWS Glue
+6. AWS Data Exchange
+7. Amazon Cloud Search
+
+## Application Integration:
+---------------------------
+1. Amazon MQ
+2. Amazon SQS
+3. Amazon SWF
+4. AWS Step Functions
+5. AWS AppSync
+
+## Business Productivity:
+-------------------------
+1. Amazon WorkDocs
+2. Amazon WorkDocs & WorkSpaces Bundle
+3. Amazon Chime Pro
+4. Amazon HoneyCode Basic
+5. Amazon Chime Basic
+6. AWS Wickr
+
+
+## Compute:
+-----------
+1. Amazon EC2
+2. AWS Lambda
+3. Amazon LightSail
+4. Amazon Elastic Container Registry
+5. Elastic Load Balancing
+
+## CONTENT DELIVERY
+-------------------
+1. Amazon Cloud Front
+ 
+## CLOUD FINANCIAL MANAGEMENT
+-----------------------------
+1. AWS Budgets
+2. AWS Billing Conductor
+
+## Customer Engagement:
+-----------------------
+1. Amazon Connect
+2. Amazon SES
+
+## Database:
+------------
+1. Amazon RDS
+2. Amazon DynamoDB
+3. Amazon Redshift
+4. Amazon ElastiCache
+5. AWS Database Migration Service
+6. Amazon Timestream
+7. Amazon MemoryDB for Redis
+8. Amazon DocumentDB(with MongoDB compatibility)
+9. Amazon Neptune
+10. Amazon Keyspaces(for Apache Cassandra)
+11. Amazon Cloud Directory
+12. Amazon SimpleDB
+
+## Developer Tools:
+------------------
+1. Amazon CloudWatch
+2. AWS CodeBuild
+3. AWS CodeCommit
+4. AWS CodePipeline
+5. AWS X-Ray
+6. AWS CodeArtifact
+7. Amazon CodeCatalyst
+
+## DESKTOP & APP STREAMING
+1. Amazon AppStream 2.0 
+
+## FRONT-END WEB & MOBILE
+1. AWS AppFabric
+2. AWS Amplify Hosting
+3. AWS Device Farm
+4. Amazon Location Service
+
+## GAME TECH
+1. Amazon GameLift
+
+## INTERNET OF THINGS
+1. AWS IoT Greengrass
+2. AWS IoT Core
+3. AWS IoT Device Management
+4. AWS IoT Events
+
+## MOBILE
+1. Amazon SNS
+2. Amazon API Gateway
+3. Amazon PinPoint
+
+## MACHINE LEARNING
+1. AWS HealthScribe
+2. Amazon SageMaker
+3. Amazon Comprehend
+4. Amazon Comprehend Medical
+5. Amazon Lex
+6. Amazon Polly
+7. Amazon Rekognition
+8. Amazon SageMaker Ground Truth
+9. Amazon Transcribe
+10. Amazon Translate
+11. Amazon Augmented AI
+12. Amazon Textract
+13. Amazon Kendra
+14. Amazon Personalize
+15. AWS DeepRacer
+16. Amazon ForeCast
+17. Amazon Fraud Detector
+18. Amazon DevOps Guru
+19. Amazon Lookout for Vision
+20. Amazon Lookout for Equipment 
+21. Amazon Lookout for Metrics
+22. Amazon Omics
+23. AWS HealthImaging
+24. Amazon CodeGuru Security
+25. AWS Health Lake
+26. AWS Supply Chain
+
+## Management Tools:
+--------------------
+1. AWS License Manager
+2. AWS OpsWorks for Chef Automate
+3. AWS OpsWorks for Puppet Enterprise
+4. AWS Well-Architected Tool
+5. AWS Service Catalog
+6. AWS Cloud Trial
+7. AWS Systems Manager
+8. AWS Cloud Formation
+9. AWS Control Tower
+10. AWS Organizations
+11. AWS Resilience Hub
+12. AWS re:Post
+
+## MANAGEMENT AND GOVERNANCE
+----------------------------
+1. Amazon Managed Service for Prometheus
+
+## MEDIA SERVICES
+-----------------
+1. Amazon Elastic Transcoder
+2. Amazon Interactive Video Service
+3. AWS Elemental Media Connect
+
+## MIGRATION
+------------
+1. AWS Migration Hub
+2. AWS Application Discovery Service
+3. Cloud Endure Migration
+4. Migration Evaluator
+5. AWS Application Migration Service
+
+
+## NETWORKING & CONTENT DELIVERY
+--------------------------------
+1. Amazon Route 53
+
+## ROBOTICS
+-----------
+1. AWS RoboMaker
+
+## SECURITY, IDENTITY, & COMPLIANCE
+-----------------------------------
+1. Amazon Cognito
+2. Amazon Inspector
+3. Amazon Macie
+4. Amazon GuardDuty
+5. AWS Key Management Service
+6. AWS Security Hub
+7. Amazon Detective
+8. AWS Audit Manager
+9. AWS WAF Bot Control
+10. AWS Private Certificate Authority
+11. AWS Secrets Manager
+12. Amazon Security Lake
+13. AWS Directory Service
+14. AWS Resource Access Manager
+
+## SERVERLESS
+-------------
+1. Amazon EventBridge
+
+## STORAGE
+----------
+1. Amazon S3
+2. Amazon EFS
+3. Amazon Elastic Block Storage
+4. AWS Storage Gateway
+5. Amazon ECS Anywhere
+6. Amazon S3 Glacier
