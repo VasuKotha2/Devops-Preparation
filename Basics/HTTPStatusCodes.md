@@ -8,8 +8,8 @@
 
 1xx: Information
 ----------------
-* 100 Continue:
----------------
+100 Continue:
+-------------
 The server has received the request headers, and the client should proceed to send the request body
 * 101 Switching Protocols:
 --------------------------
