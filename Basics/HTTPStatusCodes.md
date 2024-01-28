@@ -20,7 +20,7 @@ Used with the Link header to allow the browser to start preloading resources whi
 
 2xx: Successful
 ---------------
-200 OK: 
+# 200 OK: 
 -------
 * The request is OK (this is the standard response for successful HTTP requests)
 201 Created:
