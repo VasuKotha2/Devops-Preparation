@@ -22,13 +22,13 @@ Used with the Link header to allow the browser to start preloading resources whi
 ---------------
 200 OK: 
 -------
-The request is OK (this is the standard response for successful HTTP requests)
+* The request is OK (this is the standard response for successful HTTP requests)
 201 Created:
 ------------
-The request has been fulfilled, and a new resource is created 
-* 202 Accepted:
+* The request has been fulfilled, and a new resource is created 
+202 Accepted:
 ---------------
-The request has been accepted for processing, but the processing has not been completed
+* The request has been accepted for processing, but the processing has not been completed
 203 Non-Authoritative Information:
 ----------------------------------
 The request has been successfully processed, but is returning information that may be from another source
