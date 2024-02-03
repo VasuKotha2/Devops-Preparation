@@ -1,8 +1,7 @@
 * IAM Stands for Identity and Access Management.
 * We use IAM to control who is authenticated (signed in) and authorized
 (has permissions) to use resources.
-Features of IAM:
-----------------
+## Features of IAM:
 ## Shared access to your AWS account
   * You can grant permission to other people and use resources without sharing your password or access key  
 ##  Granular permissions
