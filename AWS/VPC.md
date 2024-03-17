@@ -1,3 +1,19 @@
+## Basics:
+----------
+IP Address:
+-----------
+* Represented in dotted decimal format.
+* Five classes of IPv4 Address:
+    * Class A: First bit starts with 0(BINARY NOTATION) or First byte contains between 0-127 (DOTTED DECIMAL NOTATION)
+    * Class B: First bits starts with 10(BINARY NOTATION) or First byte contains between 128-191 (DOTTED DECIMAL NOTATION)
+    * Class C: First bits starts with 110(BINARY NOTATION) or First byte contains between 192-223 (DOTTED DECIMAL NOTATION)
+    * Class D: First bits starts with 1110(BINARY NOTATION) or First byte contains between 224-239 (DOTTED DECIMAL NOTATION)
+    * Class E: First bits starts with 1111(BINARY NOTATION) or First byte contains between 240-255 (DOTTED DECIMAL NOTATION)
+* Two types of Addressing :
+  * Classful : Does not support Variable length subnet mask
+  * Classless : Support Variable length subnet mask
+
+
 VPC Components:
 ---------------
 * Virtual Private Cloud
@@ -71,11 +87,11 @@ VPC Components:
 Virtual Private Cloud:
 ----------------------
 1. Subnet:
--------
+----------
 * Subnet is “part of the network”, in other words, part of entire availability zone. Each subnet must reside entirely within one Availability Zone and cannot span zones.
 
 2. Route Table:
-------------
+---------------
 * A route table contains a set of rules, called routes, that are used to determine where network traffic from your subnet or gateway is directed. To put it simply, a route table tells network packets which way they need to go to get to their destination.
 
 3. Internet Gateway:
